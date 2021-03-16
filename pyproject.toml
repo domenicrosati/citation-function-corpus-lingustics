@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "citation-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Domenic Rosati <domenicrosati@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "jupyter"
+jupyter = "^1.0.0"
+nbconvert = "^6.0.7"
+nltk = "^3.5"
+matplotlib = "^3.3.4"
+textblob = "^0.15.3"
+seaborn = "^0.11.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
