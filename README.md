@@ -1,4 +1,7 @@
 # citation-function-corpus-lingustics
+
+[![DOI](https://zenodo.org/badge/348393856.svg)](https://zenodo.org/badge/latestdoi/348393856)
+
 Analysis of significant terms and collocates of citations by citation function (classified by scite.ai) presented in the paper: Citations are not opinions: a corpus linguistics approach to understanding how citations are made (manuscript not yet available - available on request)
 ## Description
 
